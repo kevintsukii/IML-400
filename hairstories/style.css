@@ -1,0 +1,51 @@
+/*
+section {
+    width: 80%;
+    height: 200px;
+    background: aqua;
+    margin: auto;
+    padding: 10px;
+}
+div#one {
+    width: 15%;
+    height: 200px;
+    background: red;
+    float: left;
+}
+div#two {
+    margin-left: 15%;
+    height: 200px;
+    background: black;
+}
+
+*/
+#bigbox {
+    width: 850px;
+    height: 100%;
+    padding: 10px;
+    background-color: #eeeeee
+}
+    
+#left {
+    
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin-top:20px; /*20 px below the top of the big box*/
+    color:white;
+    padding: 10px;
+    
+}
+
+#right {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin-top: -420px; /*square1 defaults to the right - we need to make sure it's negative to go to the top. the negative is the amoutn of pixels it takes to bring the box to the top. the margin left, is how much it needs to not be to the left side*/
+    margin-left: 430px; 
+    color: white;
+    padding:10px;
+    
+}
+
+

@@ -1,0 +1,50 @@
+#header{
+	width: 700px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 4px;
+	font-family: helvetica, "sans-serif";
+
+}
+
+#headertext h1{
+	font: 45px;
+	color:000000;
+	font-family: helvetica, "sans-serif";
+
+}
+
+#gallery{
+	width: 650px;
+	padding: 0px;
+	margin-left: 50px;
+	margin-top: 25px;
+	text-align: left;
+	font-size: 12px;
+	overflow: hidden;
+	font-family: helvetica;
+}
+
+
+
+#buttons{
+	line-height: 50px;
+	background-color:#eeeeee;
+	width:20%;
+	float: left;
+	padding: 4px;
+
+}
+
+#h1{
+	font-family: helvetica;
+}
+
+#h2{
+	font-family: helvetica;
+	font: 26px;
+
+}
+
+
