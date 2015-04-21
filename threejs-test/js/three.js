@@ -1,8 +1,4 @@
-// File:src/Three.js
 
-/**
- * @author mrdoob / http://mrdoob.com/
- */
 
 var THREE = { REVISION: '70' };
 

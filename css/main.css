@@ -1,5 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
 body {
   padding: 2em;
+}
+
+
 }
 
 .accordion {
@@ -21,7 +26,7 @@ body {
   height: 3em;
   cursor: pointer;
   margin-right: .25em;
-  font-family: helvetica, 'sans serif';
+  font-family: 'Roboto';
 }
 
 .no-js .accordion__title {
@@ -33,7 +38,7 @@ body {
 }
 
 .accordion__content {
-  font-family: helvetica;
+  font-family: 'Roboto';
   float: right;
   width: 100%;
   margin: 3em 0 0 -100%;
